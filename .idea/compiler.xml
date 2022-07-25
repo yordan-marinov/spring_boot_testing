@@ -3,116 +3,105 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Annotation profile for spring-boot-unit-testing-demo" enabled="true">
-        <sourceOutputDir name="../2.20-starting-project/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../2.20-starting-project/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-unit-testing-demo" />
-      </profile>
-      <profile name="Annotation profile for spring-boot-mvc-testing-demo (10)" enabled="true">
-        <sourceOutputDir name="../3.01-04-solution-get-gradebook-test/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../3.01-04-solution-get-gradebook-test/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-mvc-testing-demo (10)" />
-      </profile>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="junitdemo" />
-      </profile>
-      <profile name="Annotation profile for spring-testing-annotation (13)" enabled="true">
+      <profile name="Annotation profile for spring-testing-annotation (3)" enabled="true">
         <sourceOutputDir name="../solution-4.01-06-delete-student-error-page/target/generated-sources/annotations" />
         <sourceTestOutputDir name="../solution-4.01-06-delete-student-error-page/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-testing-annotation (13)" />
+        <module name="spring-testing-annotation (3)" />
+      </profile>
+      <profile name="Annotation profile for junitdemo (9)" enabled="true">
+        <sourceOutputDir name="../1.02-project-solution-lifecycle-methods/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../1.02-project-solution-lifecycle-methods/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="junitdemo (9)" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-mvc-testing-demo (1)" enabled="true">
+        <sourceOutputDir name="../3.01-09-solution-create-student-http-request-when-added/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../3.01-09-solution-create-student-http-request-when-added/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-mvc-testing-demo (1)" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-unit-testing-demo (2)" enabled="true">
+        <sourceOutputDir name="../../2.20-starting-project/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../2.20-starting-project/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-unit-testing-demo (2)" />
       </profile>
       <profile name="Annotation profile for spring-testing-annotation" enabled="true">
         <sourceOutputDir name="../../target/generated-sources/annotations" />
         <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-testing-annotation (7)" />
-        <module name="junitdemo (8)" />
-        <module name="spring-boot-mvc-testing-demo (37)" />
-        <module name="spring-boot-mvc-testing-demo (17)" />
-        <module name="spring-testing-annotation (3)" />
-        <module name="spring-boot-mvc-testing-demo (2)" />
-        <module name="spring-boot-mvc-testing-demo (6)" />
-        <module name="spring-testing-annotation (11)" />
-        <module name="junitdemo (12)" />
-        <module name="spring-boot-unit-testing-demo (2)" />
-        <module name="spring-boot-mvc-testing-demo (33)" />
-        <module name="spring-boot-mvc-testing-demo (25)" />
         <module name="spring-testing-annotation" />
-        <module name="spring-testing-annotation (6)" />
-        <module name="spring-boot-mvc-testing-demo (28)" />
-        <module name="junitdemo (9)" />
-        <module name="spring-testing-annotation (2)" />
-        <module name="spring-boot-mvc-testing-demo (3)" />
-        <module name="spring-testing-annotation (10)" />
-        <module name="spring-boot-mvc-testing-demo (7)" />
-        <module name="spring-boot-unit-testing-demo (3)" />
-        <module name="spring-boot-mvc-testing-demo (12)" />
-        <module name="spring-boot-mvc-testing-demo (36)" />
-        <module name="spring-boot-mvc-testing-demo (32)" />
-        <module name="junitdemo (1)" />
-        <module name="spring-boot-mvc-testing-demo (20)" />
-        <module name="spring-boot-mvc-testing-demo (19)" />
-        <module name="junitdemo (6)" />
-        <module name="spring-boot-mvc-testing-demo (27)" />
         <module name="spring-boot-mvc-testing-demo (15)" />
-        <module name="spring-testing-annotation (9)" />
-        <module name="spring-testing-annotation (5)" />
+        <module name="spring-boot-mvc-testing-demo (28)" />
         <module name="junitdemo (10)" />
+        <module name="spring-boot-mvc-testing-demo (7)" />
         <module name="spring-boot-mvc-testing-demo (4)" />
-        <module name="spring-boot-mvc-testing-demo (11)" />
-        <module name="spring-boot-mvc-testing-demo (35)" />
-        <module name="spring-boot-mvc-testing-demo (31)" />
-        <module name="spring-boot-mvc-testing-demo (9)" />
-        <module name="spring-boot-mvc-testing-demo (38)" />
-        <module name="junitdemo (7)" />
-        <module name="spring-boot-mvc-testing-demo (18)" />
-        <module name="spring-testing-annotation (8)" />
-        <module name="spring-boot-mvc-testing-demo (1)" />
+        <module name="spring-testing-annotation (12)" />
         <module name="spring-boot-mvc-testing-demo" />
+        <module name="spring-boot-unit-testing-demo" />
         <module name="spring-boot-unit-testing-demo (1)" />
-        <module name="spring-boot-mvc-testing-demo (22)" />
-        <module name="spring-boot-mvc-testing-demo (14)" />
-        <module name="spring-boot-mvc-testing-demo (30)" />
-      </profile>
-      <profile name="Annotation profile for junitdemo" enabled="true">
-        <sourceOutputDir name="../1.04-project-solution-assert-same-not-same-AND-true-false/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../1.04-project-solution-assert-same-not-same-AND-true-false/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="junitdemo (3)" />
+        <module name="spring-boot-unit-testing-demo (3)" />
+        <module name="spring-boot-mvc-testing-demo (33)" />
+        <module name="junitdemo" />
+        <module name="spring-boot-mvc-testing-demo (20)" />
+        <module name="junitdemo (1)" />
       </profile>
       <profile name="Annotation profile for spring-boot-mvc-testing-demo" enabled="true">
         <sourceOutputDir name="../../../target/generated-sources/annotations" />
         <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-mvc-testing-demo (8)" />
+        <module name="junitdemo (4)" />
+        <module name="spring-testing-annotation (7)" />
+        <module name="junitdemo (8)" />
+        <module name="spring-boot-mvc-testing-demo (37)" />
+        <module name="spring-boot-mvc-testing-demo (29)" />
+        <module name="spring-boot-mvc-testing-demo (17)" />
+        <module name="spring-boot-mvc-testing-demo (2)" />
+        <module name="spring-boot-mvc-testing-demo (6)" />
+        <module name="spring-testing-annotation (11)" />
+        <module name="junitdemo (12)" />
+        <module name="spring-boot-mvc-testing-demo (25)" />
+        <module name="spring-boot-mvc-testing-demo (13)" />
+        <module name="spring-boot-mvc-testing-demo (21)" />
         <module name="junitdemo (5)" />
         <module name="spring-boot-mvc-testing-demo (16)" />
-        <module name="spring-boot-mvc-testing-demo (26)" />
-        <module name="spring-boot-mvc-testing-demo (29)" />
+        <module name="spring-testing-annotation (2)" />
+        <module name="spring-boot-mvc-testing-demo (3)" />
         <module name="junitdemo (11)" />
-        <module name="spring-testing-annotation (4)" />
+        <module name="spring-testing-annotation (10)" />
+        <module name="spring-boot-mvc-testing-demo (12)" />
+        <module name="spring-boot-mvc-testing-demo (36)" />
+        <module name="spring-boot-mvc-testing-demo (24)" />
+        <module name="spring-boot-mvc-testing-demo (32)" />
+        <module name="spring-boot-mvc-testing-demo (19)" />
+        <module name="spring-boot-mvc-testing-demo (8)" />
+        <module name="junitdemo (6)" />
+        <module name="spring-boot-mvc-testing-demo (27)" />
+        <module name="spring-testing-annotation (9)" />
+        <module name="spring-testing-annotation (13)" />
+        <module name="spring-testing-annotation (5)" />
         <module name="spring-testing-annotation (1)" />
-        <module name="spring-testing-annotation (12)" />
+        <module name="spring-boot-mvc-testing-demo (23)" />
+        <module name="spring-boot-mvc-testing-demo (11)" />
+        <module name="spring-boot-mvc-testing-demo (35)" />
+        <module name="junitdemo (2)" />
+        <module name="spring-boot-mvc-testing-demo (31)" />
+        <module name="junitdemo (3)" />
+        <module name="spring-boot-mvc-testing-demo (9)" />
+        <module name="spring-boot-mvc-testing-demo (38)" />
+        <module name="junitdemo (7)" />
+        <module name="spring-boot-mvc-testing-demo (26)" />
+        <module name="spring-boot-mvc-testing-demo (18)" />
+        <module name="spring-testing-annotation (8)" />
+        <module name="spring-testing-annotation (4)" />
         <module name="spring-boot-mvc-testing-demo (5)" />
         <module name="junitdemo (13)" />
-        <module name="spring-boot-mvc-testing-demo (23)" />
         <module name="spring-boot-mvc-testing-demo (34)" />
-        <module name="spring-boot-mvc-testing-demo (24)" />
-        <module name="spring-boot-mvc-testing-demo (13)" />
-        <module name="junitdemo (2)" />
-        <module name="spring-boot-mvc-testing-demo (21)" />
-      </profile>
-      <profile name="Annotation profile for junitdemo (4)" enabled="true">
-        <sourceOutputDir name="../../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="junitdemo (4)" />
+        <module name="spring-boot-mvc-testing-demo (22)" />
+        <module name="spring-boot-mvc-testing-demo (14)" />
+        <module name="spring-boot-mvc-testing-demo (30)" />
+        <module name="spring-boot-mvc-testing-demo (10)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -191,6 +180,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-mvc-testing-demo (1)" options="-parameters" />
       <module name="spring-boot-mvc-testing-demo (10)" options="-parameters" />
       <module name="spring-boot-mvc-testing-demo (34)" options="-parameters" />
       <module name="spring-boot-unit-testing-demo" options="-parameters" />

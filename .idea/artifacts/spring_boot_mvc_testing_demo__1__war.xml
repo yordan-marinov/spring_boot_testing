@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="spring-boot-mvc-testing-demo (1):war">
-    <output-path>$PROJECT_DIR$/../target</output-path>
+    <output-path>$PROJECT_DIR$/3.01-starting-project-solutions/3.01-09-solution-create-student-http-request-when-added/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>false</exploded>

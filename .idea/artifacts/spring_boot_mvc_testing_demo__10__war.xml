@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="spring-boot-mvc-testing-demo (10):war">
-    <output-path>$PROJECT_DIR$/3.01-starting-project-solutions/3.01-04-solution-get-gradebook-test/target</output-path>
+    <output-path>$PROJECT_DIR$/../target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>false</exploded>
