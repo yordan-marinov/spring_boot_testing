@@ -133,6 +133,6 @@ class DemoUtilsTest {
 
     @Test
     void checkTimeout() {
-        assertTimeoutPreemptively(Duration.ofMillis(2001), () -> demoUtils.checkTimeout(), "Method should execute in more than 2 seconds");
+        assertTimeoutPreemptively(Duration.ofMillis(2010), () -> demoUtils.checkTimeout(), "Method should execute in more than 2 seconds");
     }
 }
