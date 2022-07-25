@@ -9,6 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 //@DisplayNameGeneration(DisplayNameGenerator.Simple.class)
+//@TestMethodOrder(MethodOrderer.DisplayName.class)
 class DemoUtilsTest {
 
     DemoUtils demoUtils;
@@ -85,13 +86,19 @@ class DemoUtilsTest {
         assertNotEquals(expected, actual, "The object should not refer to the same object");
     }
 
-//    @Test
-//    void add() {
-//    }
-//
-//    @Test
-//    void multiply() {
-//    }
+    @Test
+    void add() {
+        assertEquals(6, demoUtils.add(3, 3), "Should return there are equal");
+    }
+
+    @Test
+    void multiply() {
+        int expected = 9;
+        int actual = demoUtils.multiply(3, 3);
+
+        assertEquals(expected, actual, "result must be 9");
+        assertNotEquals(6, actual, "result must be 9 and not 6");
+    }
 
     @Test
     void checkNull() {
