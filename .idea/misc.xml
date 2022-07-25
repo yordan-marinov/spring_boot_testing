@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/3.00-starting-project" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-01-solution-create-student-service-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-02-solution-check-if-student-is-null-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-03-solution-delete-student-service-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-04-solution-get-gradebook-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-05-solution-sql-annotation-get-gradebook-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-06-solution-gradebookcontroller-test-iterable-equals" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-07-solution-gradebookcontroller-add-mvc-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-08-solution-create-student-http-post-request-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-09-solution-create-student-http-request-when-added" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-10-solution-update-index-html-to-handle-create-and-get-students" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-11-solution-delete-student-http-added" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-12-solution-delete-student-http-error-page" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-13-solution-create-grade-service-passed-for-math-grades" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-14-solution-create-grade-service-passed-for-science-grades" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-15-solution-create-grade-service-passed-for-history-grades" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-16-solution-create-grade-service-returns-false" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-17-solution-add-math-science-history-grades-to-before-and-after" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-18-solution-edit-create-grade-service-to-use-collections" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-19-solution-delete-grade-math-service-only" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-20-solution-delete-grade-science-and-history" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-21-solution-delete-grade-science-return-student-id-zero" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-22-solution-enhance-delete-student-service-to-now-delete-grades" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-23-solution-student-information-service-test-pass" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-24-solution-student-information-return-null-for-invalid-student-id" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-25-solution-setup-sql-scripts-in-application-props-file-and-student-service" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-26-solution-setup-sql-scripts-for-gradebook-controller-test" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-28-solution-enhance-student-information-method-on-grade-book-controller" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-29-solution-create-grade-on-grade-book-controller" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-30-solution-enhance-and-refactor-configure-student-information-model" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-31-solution-create-a-valid-grade-http-request-student-does-not-exist" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-32-solution-create-an-invalid-grade-http-request-grade-type-does-not-exist" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-33-solution-delete-a-valid-grade-http-request" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-34-solution-delete-a-valid-grade-http-request-grade-id-does-not-exist" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-35-solution-delete-a-non-valid-grade-http-request" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-36-solution-update-student-information-thymeleaf-template-to-use-dynamic-data" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-37-solution-create-application-test-properties-file" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-38-solution-update-app-to-connect-to-mysql" />
+    <file type="web" url="file://$PROJECT_DIR$/3.01-starting-project-solutions/3.01-80-solution-final" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1.00-starting-project/pom.xml" />
+        <option value="$PROJECT_DIR$/2.00-starting-project/pom.xml" />
+        <option value="$PROJECT_DIR$/2.20-starting-project/pom.xml" />
+        <option value="$PROJECT_DIR$/3.00-starting-project/pom.xml" />
+        <option value="$PROJECT_DIR$/4.00-starting-project/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.07-project-solution-order-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.02-project-solution-lifecycle-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.10-project-solution-conditional-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.03-project-solution-custom-display-name/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.06-project-solution-assert-throws-and-timeouts/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.05-project-solution-assert-array-iterable-lines/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.04-project-solution-assert-same-not-same-AND-true-false/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.01-project-solution-assert-equals-not-equals-AND-null-not-null/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.09-project-solution-unit-test-reports-and-code-coverage-reports-with-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/1.01-starting-project-solutions/1.08-project-solution-unit-test-reports-and-code-coverage-reports-with-intellij/pom.xml" />
+        <option value="$PROJECT_DIR$/1.12-fizzbuzz-project-solutions/01-fizzbuzz-project-solution-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/1.12-fizzbuzz-project-solutions/03-fizzbuzz-project-solution-main-app/pom.xml" />
+        <option value="$PROJECT_DIR$/1.12-fizzbuzz-project-solutions/02-fizzbuzz-project-solution-parameterized-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/2.01-starting-project-solutions/2.01-solution-junit-assertions/pom.xml" />
+        <option value="$PROJECT_DIR$/2.21-starting-project-solutions/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-80-solution-final/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-04-solution-get-gradebook-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-11-solution-delete-student-http-added/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-01-solution-create-student-service-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-03-solution-delete-student-service-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-02-solution-check-if-student-is-null-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-12-solution-delete-student-http-error-page/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-19-solution-delete-grade-math-service-only/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-38-solution-update-app-to-connect-to-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-07-solution-gradebookcontroller-add-mvc-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-20-solution-delete-grade-science-and-history/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-05-solution-sql-annotation-get-gradebook-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-33-solution-delete-a-valid-grade-http-request/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-16-solution-create-grade-service-returns-false/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-08-solution-create-student-http-post-request-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-23-solution-student-information-service-test-pass/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-29-solution-create-grade-on-grade-book-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-35-solution-delete-a-non-valid-grade-http-request/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-09-solution-create-student-http-request-when-added/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-37-solution-create-application-test-properties-file/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-06-solution-gradebookcontroller-test-iterable-equals/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-13-solution-create-grade-service-passed-for-math-grades/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-21-solution-delete-grade-science-return-student-id-zero/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-18-solution-edit-create-grade-service-to-use-collections/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-14-solution-create-grade-service-passed-for-science-grades/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-15-solution-create-grade-service-passed-for-history-grades/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-26-solution-setup-sql-scripts-for-gradebook-controller-test/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-10-solution-update-index-html-to-handle-create-and-get-students/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-17-solution-add-math-science-history-grades-to-before-and-after/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-22-solution-enhance-delete-student-service-to-now-delete-grades/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-24-solution-student-information-return-null-for-invalid-student-id/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-30-solution-enhance-and-refactor-configure-student-information-model/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-31-solution-create-a-valid-grade-http-request-student-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-34-solution-delete-a-valid-grade-http-request-grade-id-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-28-solution-enhance-student-information-method-on-grade-book-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-32-solution-create-an-invalid-grade-http-request-grade-type-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-25-solution-setup-sql-scripts-in-application-props-file-and-student-service/pom.xml" />
+        <option value="$PROJECT_DIR$/3.01-starting-project-solutions/3.01-36-solution-update-student-information-thymeleaf-template-to-use-dynamic-data/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-04-create-student/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-05-delete-student/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-03-get-students-test/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-09-create-a-valid-grade/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-12-delete-a-valid-grade/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-06-delete-student-error-page/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-07-student-information-created/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-02-setting-up-gradebook-controller-test/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-08-student-information-student-not-found/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-10-create-a-valid-student-id-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-13-delete-a-valid-grade-the-grade-id-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-14-delete-a-invalid-grade-the-grade-type-does-not-exist/pom.xml" />
+        <option value="$PROJECT_DIR$/4.01-starting-project-solutions/solution-4.01-11-create-an-invalid-grade-the-grade-type-does-not-exist/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
